@@ -1,0 +1,1 @@
+/home/alexander/Projects/AirCompany/AirCompany/obj/x86/Debug/AirCompany.csproj.CoreCompileInputs.cache
