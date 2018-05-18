@@ -3,30 +3,31 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Aerocompany
+namespace Aero
 {
     class Airport
     {
         private string name;
 
-        public Airport(string name)
+        public Airport(string n)
         {
-            this.name = name;
+            this.name = n;
         }
 
-        public Airport()
+        public Airport() 
         {
             name = string.Empty;
         }
 
-        public string getName
+        public string Name
         {
             get { return name; }
+            set { name = value; }
         }
 
         public override string ToString()
         {
-            return "Airport: " + name + "\n";
+            return "Airport name is: " + name + "\n";
         }
     }
 }

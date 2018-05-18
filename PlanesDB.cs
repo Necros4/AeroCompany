@@ -5,14 +5,14 @@ using System.Text;
 
 namespace Aero
 {
-    class FlightDB
+    class PlanesDB
     {
-        private List<Flight> flightList;
+        private List<Plane> planeList;
         private string name;
 
-        public FlightDB(string name)
+        public PlanesDB(string name)
         {
-            this.flightList = new List<Flight>();
+            this.planeList = new List<Plane>();
             this.name = name;
         }
 
@@ -21,19 +21,19 @@ namespace Aero
             get { return name; }
         }
 
-        public List<Flight> getFlights
+        public List<Plane> getPlanes
         {
-            get { return flightList; }
+            get { return planeList; }
         }
 
-        public void add(Flight f)
+        public void add(Plane f)
         {
-            flightList.Add(f);
+            planeList.Add(f);
         }
 
-        public void delete(Flight f)
+        public void delete(Plane f)
         {
-            flightList.Remove(f);
+            planeList.Remove(f);
         }
     }
 }

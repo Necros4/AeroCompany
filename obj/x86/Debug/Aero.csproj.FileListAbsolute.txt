@@ -1,0 +1,28 @@
+L:/C# Applications/Aero/Aero/Aero/bin/Debug/Aero.exe
+L:/C# Applications/Aero/Aero/Aero/bin/Debug/Aero.pdb
+L:/C# Applications/Aero/Aero/Aero/obj/x86/Debug/ResolveAssemblyReference.cache
+L:/C# Applications/Aero/Aero/Aero/obj/x86/Debug/Aero.exe
+L:/C# Applications/Aero/Aero/Aero/obj/x86/Debug/Aero.pdb
+L:/C# Applications/Aero/Aero2/Aero/obj/x86/Debug/Aero.exe
+L:/C# Applications/Aero/Aero2/Aero/obj/x86/Debug/Aero.pdb
+L:/C# Applications/Aero/Aero2/Aero/bin/Debug/Aero.exe
+L:/C# Applications/Aero/Aero2/Aero/bin/Debug/Aero.pdb
+L:/C# Applications/Aero/Aero2/Aero/obj/x86/Debug/ResolveAssemblyReference.cache
+L:/C# Applications/Aero/Aero3/Aero/obj/x86/Debug/Aero.exe
+L:/C# Applications/Aero/Aero3/Aero/obj/x86/Debug/Aero.pdb
+L:/C# Applications/Aero/Aero3/Aero/obj/x86/Debug/ResolveAssemblyReference.cache
+L:/C# Applications/Aero/Aero3/Aero/bin/Debug/Aero.exe
+L:/C# Applications/Aero/Aero3/Aero/bin/Debug/Aero.pdb
+C:/Users/Student2/Desktop/Aero3/Aero/obj/x86/Debug/Aero.exe
+C:/Users/Student2/Desktop/Aero3/Aero/obj/x86/Debug/Aero.pdb
+C:/Users/Student2/Desktop/Aero3/Aero/bin/Debug/Aero.exe
+C:/Users/Student2/Desktop/Aero3/Aero/bin/Debug/Aero.pdb
+C:/Users/Student2/Desktop/Aero3/Aero/obj/x86/Debug/Aero.csprojResolveAssemblyReference.cache
+H:/Aero3/Aero/obj/x86/Debug/Aero.exe
+H:/Aero3/Aero/obj/x86/Debug/Aero.pdb
+/home/alexander/Projects/Aero3/Aero/bin/Debug/Aero.exe
+/home/alexander/Projects/Aero3/Aero/bin/Debug/Aero.pdb
+/home/alexander/Projects/Aero3/Aero/obj/x86/Debug/Aero.csprojResolveAssemblyReference.cache
+/home/alexander/Projects/Aero3/Aero/obj/x86/Debug/Aero.csproj.CoreCompileInputs.cache
+/home/alexander/Projects/Aero3/Aero/obj/x86/Debug/Aero.exe
+/home/alexander/Projects/Aero3/Aero/obj/x86/Debug/Aero.pdb
